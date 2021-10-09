@@ -50,6 +50,3 @@ def arithmetic_arranger(expressions, answer=False):
         return first_line + '\n' + second_line + '\n' + third_line + '\n' + fourth_line
         
     return first_line + '\n' + second_line + '\n' + third_line
-
-print(arithmetic_arranger(['3 + 855', '988 + 40'], True))
-print(repr(arithmetic_arranger(['3 + 855', '988 + 40'], True)))
