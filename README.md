@@ -1,3 +1,17 @@
+# Arithmetic Arranger
+
+![image](https://forthebadge.com/images/badges/made-with-python.svg)
+
+A program that displays string representations of arithmetic problems
+
+![image](https://raw.githubusercontent.com/anthonyrepo/Arithmetic_Formatter/main/img/output.PNG)
+
+## Technologies Used
+- Python 3.9
+- Pytest framework
+## Description
+This program is apart of a series of projects for the completion of the [FreeCodeCamp Scientific Computing with Python certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/). The purpose of this program is to output a string representation of arithmetic problems in a concise manner.
+
 ### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
@@ -55,3 +69,10 @@ The function will return the correct conversion if the supplied problems are pro
     * Numbers should be right-aligned.
     * There should be four spaces between each problem.
     * There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)
+
+### Notes
+- The pytest framework was used here to provide concise unit testing for the program
+
+![image](https://raw.githubusercontent.com/anthonyrepo/Arithmetic_Formatter/main/img/pytest.png)
+## Links
+- FreeCodeCamo's Scientific Computing with Python [certification curriculum](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
